@@ -1,1 +1,9 @@
-Ewa Nowara is a Postdoctoral Research Fellow at Johns Hopkins University.
+I am a Postdoctoral Research Fellow at Joohns Hopkins University where I work with Prof. Rama Chellappa, on computer vision and deep learning. I am currently working on geo-localizing natural images.
+
+I received my Ph.D. from Rice University in 2021 where I worked in the Computational Imaging Group with Prof. Ashok Veeraraghavan. Druing my Ph.D. I built systems for robust camera-based vital signs monitoring for real-life applications.
+
+I interned at Los Alamos National Lab (T-5) with Brendt Wohlberg in 2020, Microsoft Research AI with Daniel McDuff in 2019, and Mitsubishi Electric Research Lab with Tim Marks and Hassan Mansour in 2018 and 2017.
+
+I am a recipient of the Ken Kennedy Institute for Information Technology Schlumberger Graduate Fellowship and the Texas Instruments Fellowship. 
+
+Before coming to Rice, I graduated from St. Mary’s University in San Antonio, TX with a B.S. in Physics (summa cum laude) in 2015.
