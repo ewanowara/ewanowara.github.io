@@ -51,7 +51,12 @@
 
         <tr onmouseout="nerfbake_stop()" onmouseover="nerfbake_start()">
           <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src='data/Aug.jpg' width="160">
+            <div class="one">
+              <div class="two" id='flare_image'>
+                <img src='data/Aug1.jpg' width="160"></div>
+              <img src='data/Aug2.jpg' width="160">
+            </div>
+              
             <script type="text/javascript">
               function nerfbake_start() {
                 document.getElementById('nerfbake_image').style.opacity = "1";
