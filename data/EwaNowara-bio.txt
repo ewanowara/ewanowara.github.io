@@ -1,6 +1,6 @@
-I am a Postdoctoral Research Fellow at Joohns Hopkins University where I work with Prof. Rama Chellappa, on computer vision and deep learning. I am currently working on geo-localizing natural images.
+I am a Postdoctoral Research Fellow at Johns Hopkins University working with Prof. Rama Chellappa on geo-localizing natural images. I'm interested in computer vision, machine learning and computational imaging.
 
-I received my Ph.D. from Rice University in 2021 where I worked in the Computational Imaging Group with Prof. Ashok Veeraraghavan. Druing my Ph.D. I built systems for robust camera-based vital signs monitoring for real-life applications.
+I received my Ph.D. from Rice University in 2021 where I was fortunate to work with Prof. Ashok Veeraraghavan in the Computational Imaging Group. My Ph.D. research focused on deep learning and computational imaging for robust unconstrained camera-based vital signs monitoring.
 
 I interned at Los Alamos National Lab (T-5) with Brendt Wohlberg in 2020, Microsoft Research AI with Daniel McDuff in 2019, and Mitsubishi Electric Research Lab with Tim Marks and Hassan Mansour in 2018 and 2017.
 
