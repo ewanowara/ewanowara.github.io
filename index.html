@@ -56,6 +56,48 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           
+          <tr onmouseout="nerfbake_stop()" onmouseover="nerfbake_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='nerfbake_image'><img src='data/Benefit_of_Distraction.jpg' width="160">
+              </div>
+              <script type="text/javascript">
+                function nerfbake_start() {
+                  document.getElementById('nerfbake_image').style.opacity = "1";
+                }
+
+                function nerfbake_stop() {
+                  document.getElementById('nerfbake_image').style.opacity = "0";
+                }
+                nerfbake_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2010.07770">
+              <papertitle>The Benefit of Distraction: Denoising Remote Vitals Measurements using Inverse Attention</papertitle></a>
+              <br>
+              (Link Forthcoming)
+              <br>
+              </a>
+              <br>
+              <strong>Ewa M. Nowara</strong>,
+              <a href="https://www.microsoft.com/en-us/research/people/damcduff/">Daniel McDuff</a>,
+              <a href="http://computationalimaging.rice.edu/team/ashok-veeraraghavan/">Ashok Veeraraghavan</a>
+              
+              <br>
+              <em>ICCV</em>, 2021 
+              <br>
+              <a href="https://arxiv.org/abs/2010.07770">arXiv</a>
+              /
+      
+              <a href="https://www.dropbox.com/s/dbr4l4uzz7ayxjn/video_Benefit_of_distraction.mp4?dl=0">video</a>
+              
+              <p></p>
+              <p>We exploit the idea that statistics of corruptions may be shared between the video regions that contain the signal of interest and those that do not. We use the inverse of an attention mask to generate a corruption estimate that is then used to denoise temporal observations.</p>
+            </td>
+        </tbody>
+      
+        
         <tr onmouseout="nerfbake_stop1()" onmouseover="nerfbake_start1()">
           <td style="padding:20px;width:25%;vertical-align:middle">
             <div class="one">
@@ -76,12 +118,9 @@
             </script>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
-            <a href=""></a>
+            <a href="https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Nowara_Combining_Magnification_and_Measurement_for_Non-Contact_Cardiac_Monitoring_CVPRW_2021_paper.html"></a>
             <papertitle>Combining Magnification and Measurement for Non-Contact Cardiac Monitoring </papertitle>
             </a>
-            <br>
-            (link forthcoming)
-            <br>
             <br>
             <strong>Ewa M. Nowara</strong>,
             <a href="https://www.microsoft.com/en-us/research/people/damcduff/">Daniel McDuff</a>,
@@ -204,44 +243,7 @@
       </td>
   </tbody>
 
-          <tr onmouseout="nerfbake_stop()" onmouseover="nerfbake_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='nerfbake_image'><img src='data/Benefit_of_Distraction.jpg' width="160">
-              </div>
-              <script type="text/javascript">
-                function nerfbake_start() {
-                  document.getElementById('nerfbake_image').style.opacity = "1";
-                }
-
-                function nerfbake_stop() {
-                  document.getElementById('nerfbake_image').style.opacity = "0";
-                }
-                nerfbake_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2010.07770">
-              <papertitle>The Benefit of Distraction: Denoising Remote Vitals Measurements using Inverse Attention</papertitle></a>
-              </a>
-              <br>
-              <strong>Ewa M. Nowara</strong>,
-              <a href="https://www.microsoft.com/en-us/research/people/damcduff/">Daniel McDuff</a>,
-              <a href="http://computationalimaging.rice.edu/team/ashok-veeraraghavan/">Ashok Veeraraghavan</a>
-              
-              <br>
-              <em>arXiv</em>, 2020 
-              <br>
-              <a href="https://arxiv.org/abs/2010.07770">arXiv</a>
-              /
-      
-              <a href="https://www.dropbox.com/s/dbr4l4uzz7ayxjn/video_Benefit_of_distraction.mp4?dl=0">video</a>
-              
-              <p></p>
-              <p>We exploit the idea that statistics of corruptions may be shared between the video regions that contain the signal of interest and those that do not. We use the inverse of an attention mask to generate a corruption estimate that is then used to denoise temporal observations.</p>
-            </td>
-        </tbody>
-      
+          
         <tr onmouseout="nerfbake_stop()" onmouseover="nerfbake_start()">
           <td style="padding:20px;width:25%;vertical-align:middle">
             <div class="one">
