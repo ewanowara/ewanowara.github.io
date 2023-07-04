@@ -1,9 +1,11 @@
-I am a Research Scientist at Meta Reality Labs Research in Sunnyvale, CA. I'm interested in computer vision, machine learning and computational imaging.
+I am a Senior Machine Learning Scientist at Genentech on the Prescient Design team. Before that, I was a Research Scientist at Meta Reality Labs. 
 
-Before coming to Meta I was a Postdoctoral Research Fellow at Johns Hopkins University working with Prof. Rama Chellappa on geo-localizing natural images. I received my Ph.D. from Rice University in 2021 where I was fortunate to work with Prof. Ashok Veeraraghavan in the Computational Imaging Group. My Ph.D. research focused on deep learning and computational imaging for robust unconstrained camera-based vital signs monitoring.
+Before coming to Meta, I was a Postdoctoral Research Fellow at Johns Hopkins University working with Prof. Rama Chellappa on geo-localizing natural images. I received my Ph.D. from Rice University in 2021 where I was fortunate to work with Prof. Ashok Veeraraghavan in the Computational Imaging Group. My Ph.D. research focused on deep learning and computational imaging for robust unconstrained camera-based vital signs monitoring.
 
 I interned at Los Alamos National Lab (T-5) with Brendt Wohlberg in 2020, Microsoft Research AI with Daniel McDuff in 2019, and Mitsubishi Electric Research Lab with Tim Marks and Hassan Mansour in 2018 and 2017.
 
 I am a recipient of the Ken Kennedy Institute for Information Technology Schlumberger Graduate Fellowship and the Texas Instruments Fellowship. 
 
-Before coming to Rice, I graduated from St. Mary’s University in San Antonio, TX with a B.S. in Physics (summa cum laude) in 2015.
+Before coming to Rice, I graduated from St. Mary’s University in San Antonio, TX with a B.S. in Physics (summa cum laude) in 2015. During my undergrad, I worked on biochemistry and computational chemistry research. 
+
+I am excited to be able to merge my past experiences in physics and chemistry with my current machine learning expertise at Prescient to find new ways of treating cancer! 
